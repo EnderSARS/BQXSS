@@ -1,0 +1,23 @@
+console.log("白雀 × 萨斯（2018 - Forever）");
+console.log("hhhh你是不是一不小心按到了F12");
+console.log("呐，你还真是可爱呢❤");
+console.log("咳，");
+console.log("这里放点我说不出口的东西吧~");
+console.log("还记得我们怎么认识的嘛hhhhh");
+console.log("靠，为啥我还会记得这个。");
+console.log("hhh不管这么多了");
+console.log("于是上次的七夕。");
+console.log("表白晚了淦");
+console.log("【太 真 实 了】");
+console.log("【？？？？");
+console.log("白雀：【我怀疑你是舔狗，但我没有证据");
+console.log("萨斯：哇啊啊啊啊我不是，我没有！！！！！");
+console.log("？？发生了什么");
+console.log("刚刚我要说什么来着..");
+console.log("啊啊啊！！！");
+console.log("我忘了【摊");
+console.log("hhhh算了不说这么多了");
+console.log("七夕快乐！");
+console.log("爱你❤");
+console.log("——2019/8/7");
+//hhh你又来了，好了真的没东西了

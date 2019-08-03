@@ -1,0 +1,39 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bqxss.org" resolutions="1x" timestamp="1564833683062">
+  <folder name="css">
+    <file name="site_global.css" crc="347579958"/>
+    <file name="master_bq-active.css" crc="4212438618" ref="bq"/>
+    <file name="master_about-active.css" crc="285819552" ref="about"/>
+    <file name="master_activity-active.css" crc="475254910" ref="activity"/>
+    <file name="master_timeline-active.css" crc="4228261567" ref="timeline"/>
+    <file name="master_index-active.css" crc="446943978" ref="index"/>
+    <file name="master_ss-active.css" crc="241648760" ref="ss"/>
+    <file name="master_support-active.css" crc="171304322" ref="support"/>
+    <file name="bq.css" crc="338816227" ref="bq"/>
+    <file name="about.css" crc="4056172527" ref="about"/>
+    <file name="activity.css" crc="23739632" ref="activity"/>
+    <file name="index.css" crc="3899052720" ref="index"/>
+    <file name="timeline.css" crc="76557886" ref="timeline"/>
+    <file name="ss.css" crc="4171196607" ref="ss"/>
+    <file name="support.css" crc="4161959566" ref="support"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bq:ss:timeline:about:support:activity"/>
+    <file name="museutils.js" crc="340535759" ref="index:bq:ss:timeline:about:support:activity"/>
+    <file name="whatinput.js" crc="86476730" ref="index:bq:ss:timeline:about:support:activity"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:bq:ss:timeline:about:support:activity"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:bq:ss:timeline:about:support:activity"/>
+    <file name="require.js" crc="7928878" ref="index:bq:ss:timeline:about:support:activity"/>
+  </folder>
+  <folder name="images">
+    <file name="pink1.png" crc="457302999" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="514732281" seo="true" mt="1564829325639" redirect="true"/>
+  <file name="bq.html" crc="449464882" seo="true" mt="1564824248378" redirect="true"/>
+  <file name="ss.html" crc="331018293" seo="true" mt="1564824248378" redirect="true"/>
+  <file name="timeline.html" crc="206240351" seo="true" mt="1564824248379" redirect="true"/>
+  <file name="about.html" crc="224650145" seo="true" mt="1564824248379" redirect="true"/>
+  <file name="support.html" crc="3960570709" seo="true" mt="1564824248380" redirect="true"/>
+  <file name="activity.html" crc="4219305159" seo="true" mt="1564824248380" redirect="true"/>
+</manifest>
