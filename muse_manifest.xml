@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bqxss.org" resolutions="1x" timestamp="1564986236045">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bqxss.org" resolutions="1x" timestamp="1565009084733">
   <folder name="css">
-    <file name="site_global.css" crc="3808696240"/>
+    <file name="site_global.css" crc="3842788024"/>
     <file name="master_bq-active.css" crc="4159712985" ref="bq"/>
     <file name="master_about-active.css" crc="4232203586" ref="about"/>
     <file name="master_activity-active.css" crc="267576655" ref="activity"/>
@@ -12,19 +12,18 @@
     <file name="about.css" crc="4056407027" ref="about"/>
     <file name="activity.css" crc="92902046" ref="activity"/>
     <file name="index.css" crc="177270591" ref="index"/>
-    <file name="timeline.css" crc="4225722446" ref="timeline"/>
+    <file name="timeline.css" crc="4291291038" ref="timeline"/>
     <file name="ss.css" crc="131236927" ref="ss"/>
     <file name="support.css" crc="314878700" ref="support"/>
     <file name="lswz-4.css" crc="4066182975" ref="lswz-4"/>
     <file name="ssjm.css" crc="3933558273" ref="ssjm"/>
-    <file name="master_____.css" crc="4288203175" ref="ssjm:yes:no:15:1:可以:loveu:6:3:萨斯:假的:不可以:真的:7:2:16:soeasy:123456:dlc:rbqrbq:12:avicii:c5da2"/>
+    <file name="master_____.css" crc="4288203175" ref="ssjm:yes:no:15:1:可以:loveu:3:萨斯:假的:不可以:真的:7:2:16:soeasy:123456:dlc:rbqrbq:12:avicii:c5da2:17"/>
     <file name="yes.css" crc="4241895092" ref="yes"/>
     <file name="no.css" crc="3886126791" ref="no"/>
     <file name="15.css" crc="153180518" ref="15"/>
     <file name="1.css" crc="74512669" ref="1"/>
     <file name="__1.css" crc="4285576002" ref="可以"/>
     <file name="loveu.css" crc="4239110188" ref="loveu"/>
-    <file name="6.css" crc="468164555" ref="6"/>
     <file name="3.css" crc="480944833" ref="3"/>
     <file name="__.css" crc="3929664533" ref="萨斯"/>
     <file name="__3.css" crc="3865725094" ref="假的"/>
@@ -35,25 +34,26 @@
     <file name="16.css" crc="3885982418" ref="16"/>
     <file name="soeasy.css" crc="406882417" ref="soeasy"/>
     <file name="123456.css" crc="270966679" ref="123456"/>
-    <file name="master_bswz-0-active.css" crc="374546156" ref="bswz-0"/>
+    <file name="master_bswz-0-active.css" crc="511946160" ref="bswz-0"/>
     <file name="master_lswz-4-active.css" crc="4276140943" ref="lswz-4"/>
-    <file name="bswz-0.css" crc="14033476" ref="bswz-0"/>
+    <file name="bswz-0.css" crc="3994839770" ref="bswz-0"/>
     <file name="dlc.css" crc="4005534759" ref="dlc"/>
     <file name="rbqrbq.css" crc="357342756" ref="rbqrbq"/>
     <file name="12.css" crc="46168534" ref="12"/>
     <file name="avicii.css" crc="3953884731" ref="avicii"/>
     <file name="c5da2.css" crc="4023235830" ref="c5da2"/>
+    <file name="17.css" crc="468164555" ref="17"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:6:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii"/>
-    <file name="museutils.js" crc="340535759" ref="index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:6:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii"/>
-    <file name="whatinput.js" crc="86476730" ref="index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:6:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:6:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:6:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii"/>
-    <file name="require.js" crc="7928878" ref="index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:6:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:17"/>
+    <file name="museutils.js" crc="340535759" ref="index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:17"/>
+    <file name="whatinput.js" crc="86476730" ref="index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:17"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:17"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:17"/>
+    <file name="require.js" crc="7928878" ref="index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:17"/>
   </folder>
   <folder name="images">
-    <file name="lswz4.png" crc="299787486" seo="true" ref="lswz-4:bswz-0">
+    <file name="lswz4.png" crc="299787486" seo="true" ref="lswz-4">
       <caption webpage="ss" alt=""/>
       <caption webpage="bswz-1" alt=""/>
       <caption webpage="lswz-4" alt=""/>
@@ -88,11 +88,11 @@
     <file name="u953-20.png" crc="4016623896" ref="loveu"/>
     <file name="u962-8.png" crc="306921831" ref="萨斯"/>
     <file name="u971-8.png" crc="193719214" ref="萨斯"/>
-    <file name="u980-14.png" crc="175986177" ref="7"/>
-    <file name="u981-4.png" crc="331154661" ref="7"/>
-    <file name="u995-10.png" crc="198929500" ref="6"/>
-    <file name="u994-4.png" crc="512666608" ref="6"/>
-    <file name="u1006-4.png" crc="244987591" ref="6"/>
+    <file name="u980-14.png" crc="4081080106" ref="7"/>
+    <file name="u981-4.png" crc="3946022351" ref="7"/>
+    <file name="u995-10.png" crc="3959168454" ref="17"/>
+    <file name="u994-4.png" crc="512666608" ref="17"/>
+    <file name="u1006-4.png" crc="3764198708" ref="17"/>
     <file name="u1017-7.png" crc="3799770461" ref="可以"/>
     <file name="-z4-@-jsa0-o-(n--htn7mj.png" crc="459074934" seo="true" ref="可以:假的">
       <caption webpage="可以" alt=""/>
@@ -127,11 +127,14 @@
     <file name="u1404-4.png" crc="446501077" ref="avicii"/>
     <file name="u1407-4.png" crc="205822964" ref="avicii"/>
     <file name="u1410-6.png" crc="163060971" ref="avicii"/>
+    <file name="bswz0.png" crc="3777109509" seo="true" ref="bswz-0">
+      <caption webpage="bswz-0" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="301019474" seo="true" mt="1564890603210" redirect="true"/>
   <file name="bq.html" crc="3861153038" seo="true" mt="1564890565124" redirect="true"/>
   <file name="ss.html" crc="489387956" seo="true" mt="1564965784296" redirect="true"/>
-  <file name="timeline.html" crc="306388158" seo="true" mt="1564931284145" redirect="true"/>
+  <file name="timeline.html" crc="4072438661" seo="true" mt="1564993525631" redirect="true"/>
   <file name="about.html" crc="4273107385" seo="true" mt="1564891902091" redirect="true"/>
   <file name="support.html" crc="4185710236" seo="true" mt="1564893285861" redirect="true"/>
   <file name="activity.html" crc="4252660456" seo="true" mt="1564965523087" redirect="true"/>
@@ -147,17 +150,17 @@
   <file name="16.html" crc="3761892904" seo="true" mt="1564927581044" redirect="true"/>
   <file name="loveu.html" crc="89832187" seo="true" mt="1564927933675" redirect="true"/>
   <file name="萨斯.html" crc="534754734" seo="true" mt="1564928122680" redirect="true"/>
-  <file name="7.html" crc="217906324" seo="true" mt="1564928244240" redirect="true"/>
-  <file name="6.html" crc="11186468" seo="true" mt="1564928403591" redirect="true"/>
+  <file name="7.html" crc="3915219194" seo="true" mt="1565004056823" redirect="true"/>
   <file name="可以.html" crc="301494789" seo="true" mt="1564968215659" redirect="true"/>
   <file name="不可以.html" crc="195687602" seo="true" mt="1564928594797" redirect="true"/>
   <file name="真的.html" crc="116831260" seo="true" mt="1564967591073" redirect="true"/>
   <file name="假的.html" crc="75093045" seo="true" mt="1564968201353" redirect="true"/>
   <file name="123456.html" crc="4224200493" seo="true" mt="1564928796262" redirect="true"/>
-  <file name="bswz-0.html" crc="294927031" seo="true" mt="1564965538150" redirect="true"/>
+  <file name="bswz-0.html" crc="3946172579" seo="true" mt="1565009069498" redirect="true"/>
   <file name="dlc.html" crc="1295509" seo="true" mt="1564969183475" redirect="true"/>
   <file name="c5da2.html" crc="297714652" seo="true" mt="1564969311604" redirect="true"/>
   <file name="rbqrbq.html" crc="3874672237" seo="true" mt="1564969305416" redirect="true"/>
   <file name="12.html" crc="420834926" seo="true" mt="1564969546041" redirect="true"/>
   <file name="avicii.html" crc="214457124" seo="true" mt="1564969744016" redirect="true"/>
+  <file name="17.html" crc="3787976515" seo="true" mt="1565004070269" redirect="true"/>
 </manifest>
