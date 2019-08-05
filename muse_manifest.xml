@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bqxss.org" resolutions="1x" timestamp="1565009084733">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bqxss.org" resolutions="1x" timestamp="1565010452091">
   <folder name="css">
-    <file name="site_global.css" crc="3842788024"/>
+    <file name="site_global.css" crc="3808696240"/>
     <file name="master_bq-active.css" crc="4159712985" ref="bq"/>
     <file name="master_about-active.css" crc="4232203586" ref="about"/>
     <file name="master_activity-active.css" crc="267576655" ref="activity"/>
@@ -90,7 +90,7 @@
     <file name="u971-8.png" crc="193719214" ref="萨斯"/>
     <file name="u980-14.png" crc="4081080106" ref="7"/>
     <file name="u981-4.png" crc="3946022351" ref="7"/>
-    <file name="u995-10.png" crc="3959168454" ref="17"/>
+    <file name="u995-10.png" crc="526001299" ref="17"/>
     <file name="u994-4.png" crc="512666608" ref="17"/>
     <file name="u1006-4.png" crc="3764198708" ref="17"/>
     <file name="u1017-7.png" crc="3799770461" ref="可以"/>
@@ -162,5 +162,5 @@
   <file name="rbqrbq.html" crc="3874672237" seo="true" mt="1564969305416" redirect="true"/>
   <file name="12.html" crc="420834926" seo="true" mt="1564969546041" redirect="true"/>
   <file name="avicii.html" crc="214457124" seo="true" mt="1564969744016" redirect="true"/>
-  <file name="17.html" crc="3787976515" seo="true" mt="1565004070269" redirect="true"/>
+  <file name="17.html" crc="514489017" seo="true" mt="1565010433631" redirect="true"/>
 </manifest>
