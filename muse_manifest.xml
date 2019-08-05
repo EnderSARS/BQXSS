@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bqxss.org" resolutions="1x" timestamp="1564971704984">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bqxss.org" resolutions="1x" timestamp="1564986236045">
   <folder name="css">
     <file name="site_global.css" crc="3808696240"/>
     <file name="master_bq-active.css" crc="4159712985" ref="bq"/>
@@ -107,7 +107,7 @@
     <file name="u1094-4.png" crc="420357911" ref="假的"/>
     <file name="u1095-4.png" crc="115664922" ref="假的"/>
     <file name="u1113-8.png" crc="4018320659" ref="123456"/>
-    <file name="u778-14.png" crc="4129938614" ref="ssjm"/>
+    <file name="u778-14.png" crc="320111334" ref="ssjm"/>
     <file name="u1272-14.png" crc="3876305042" ref="可以"/>
     <file name="u1074-4.png" crc="3971168455" ref="真的"/>
     <file name="u1269-14.png" crc="3876305042" ref="假的"/>
@@ -136,7 +136,7 @@
   <file name="support.html" crc="4185710236" seo="true" mt="1564893285861" redirect="true"/>
   <file name="activity.html" crc="4252660456" seo="true" mt="1564965523087" redirect="true"/>
   <file name="lswz-4.html" crc="3905238071" seo="true" mt="1564965447646" redirect="true"/>
-  <file name="ssjm.html" crc="3862910078" seo="true" mt="1564965957308" redirect="true"/>
+  <file name="ssjm.html" crc="3879351835" seo="true" mt="1564972026928" redirect="true"/>
   <file name="yes.html" crc="4273379891" seo="true" mt="1564927171528" redirect="true"/>
   <file name="no.html" crc="304749670" seo="true" mt="1564927031705" redirect="true"/>
   <file name="2.html" crc="17033034" seo="true" mt="1564927442231" redirect="true"/>
