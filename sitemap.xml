@@ -221,4 +221,37 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>http://www.bqxss.org/lswz-3.html</loc>
+    <lastmod>2019-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.bqxss.org/images/lswz3.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.bqxss.org/lswz-2.html</loc>
+    <lastmod>2019-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.bqxss.org/images/lswz2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.bqxss.org/lswz-1.html</loc>
+    <lastmod>2019-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.bqxss.org/images/lswz1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.bqxss.org/bswz-1.html</loc>
+    <lastmod>2019-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

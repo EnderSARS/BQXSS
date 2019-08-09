@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bqxss.org" resolutions="1x" timestamp="1565318109983">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bqxss.org" resolutions="1x" timestamp="1565342699175">
   <folder name="css">
-    <file name="site_global.css" crc="3842788024"/>
-    <file name="master_default.css" crc="4107661718" ref="lswz:lswz-4:support:bswz:activity:bswz-0:about:timeline:ss:bq:index"/>
+    <file name="site_global.css" crc="3808696240"/>
+    <file name="master_default.css" crc="4107661718" ref="lswz:lswz-4:support:bswz:activity:bswz-0:about:timeline:ss:bq:index:lswz-3:lswz-1:lswz-2:bswz-1"/>
     <file name="master_empty.css" crc="4288203175" ref="no:不可以:yes:soeasy:15:可以:ssjm:3:17:1:7:2:dlc:123456:c5da2:假的:rbqrbq:真的:12:avicii:萨斯:loveu:16"/>
     <file name="no.css" crc="3886126791" ref="no"/>
     <file name="___.css" crc="89912684" ref="不可以"/>
@@ -37,6 +37,10 @@
     <file name="index.css" crc="293011934" ref="index"/>
     <file name="loveu.css" crc="4239110188" ref="loveu"/>
     <file name="16.css" crc="3885982418" ref="16"/>
+    <file name="lswz-3.css" crc="228234106" ref="lswz-3"/>
+    <file name="lswz-1.css" crc="4001842841" ref="lswz-1"/>
+    <file name="lswz-2.css" crc="454117501" ref="lswz-2"/>
+    <file name="bswz-1.css" crc="3784744494" ref="bswz-1"/>
   </folder>
   <folder name="fonts">
     <file name="notosanscjksc-thin_0.woff" crc="97902506"/>
@@ -47,12 +51,12 @@
     <file name="notosanscjksc-thin_0.svg" crc="4294967295"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:17:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:lswz:bswz"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:tablet>index:index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:17:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:lswz:bswz"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:17:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:lswz:bswz"/>
-    <file name="museconfig.js" crc="4286661555" ref="phone>index:tablet>index:index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:17:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:lswz:bswz"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:17:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:lswz:bswz"/>
-    <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:17:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:lswz:bswz"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:17:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:lswz:bswz:lswz-3:lswz-2:lswz-1:bswz-1"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:tablet>index:index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:17:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:lswz:bswz:lswz-3:lswz-2:lswz-1:bswz-1"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:17:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:lswz:bswz:lswz-3:lswz-2:lswz-1:bswz-1"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:tablet>index:index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:17:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:lswz:bswz:lswz-3:lswz-2:lswz-1:bswz-1"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:17:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:lswz:bswz:lswz-3:lswz-2:lswz-1:bswz-1"/>
+    <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index:bq:ss:timeline:about:support:activity:lswz-4:ssjm:yes:no:2:1:3:soeasy:15:16:loveu:萨斯:7:17:可以:不可以:真的:假的:123456:bswz-0:dlc:c5da2:rbqrbq:12:avicii:lswz:bswz:lswz-3:lswz-2:lswz-1:bswz-1"/>
   </folder>
   <folder name="images">
     <file name="default-favicon.ico" crc="4210753358" ref="phone>index"/>
@@ -111,6 +115,7 @@
     <file name="u1269-14.png" crc="4274368721" ref="假的"/>
     <file name="u1113-8.png" crc="4126199986" ref="123456"/>
     <file name="bswz0.png" crc="3777109509" seo="true" ref="bswz-0">
+      <caption webpage="bswz-1" alt=""/>
       <caption webpage="bswz-0" alt=""/>
     </file>
     <file name="u1290-6.png" crc="147921948" ref="dlc"/>
@@ -129,6 +134,16 @@
     <file name="u1404-4.png" crc="446501077" ref="avicii"/>
     <file name="u1407-4.png" crc="205822964" ref="avicii"/>
     <file name="u1410-6.png" crc="4025011007" ref="avicii"/>
+    <file name="lswz3.png" crc="3891148240" seo="true" ref="lswz-3">
+      <caption webpage="lswz-3" alt=""/>
+    </file>
+    <file name="lswz2.png" crc="4044301279" seo="true" ref="lswz-2">
+      <caption webpage="lswz-2" alt=""/>
+    </file>
+    <file name="lswz1.png" crc="4212537514" seo="true" ref="lswz-1">
+      <caption webpage="lswz-1" alt=""/>
+    </file>
+    <file name="u1873-4.png" crc="402104412" ref="bswz-1"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -168,7 +183,7 @@
   <file name="真的.html" crc="462507209" seo="true" mt="1565259688717" redirect="true"/>
   <file name="假的.html" crc="309006274" seo="true" mt="1565260030579" redirect="true"/>
   <file name="123456.html" crc="172767325" seo="true" mt="1565259688717" redirect="true"/>
-  <file name="bswz-0.html" crc="162472752" seo="true" mt="1565318100479" redirect="true"/>
+  <file name="bswz-0.html" crc="3867943960" seo="true" mt="1565318095002" redirect="true"/>
   <file name="dlc.html" crc="4259170735" seo="true" mt="1565259688717" redirect="true"/>
   <file name="c5da2.html" crc="310574430" seo="true" mt="1565259688717" redirect="true"/>
   <file name="rbqrbq.html" crc="2696605" seo="true" mt="1565259688717" redirect="true"/>
@@ -176,4 +191,8 @@
   <file name="avicii.html" crc="246918348" seo="true" mt="1565259688717" redirect="true"/>
   <file name="lswz.html" crc="4239983297" seo="true" mt="1565318001199" redirect="true"/>
   <file name="bswz.html" crc="367603973" seo="true" mt="1565318025573" redirect="true"/>
+  <file name="lswz-3.html" crc="3852835007" seo="true" mt="1565342579111" redirect="true"/>
+  <file name="lswz-2.html" crc="83285645" seo="true" mt="1565342565633" redirect="true"/>
+  <file name="lswz-1.html" crc="283500670" seo="true" mt="1565342559208" redirect="true"/>
+  <file name="bswz-1.html" crc="3884940210" seo="true" mt="1565342686807" redirect="true"/>
 </manifest>
