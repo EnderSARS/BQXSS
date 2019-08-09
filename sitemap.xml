@@ -2,49 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.bqxss.org/index.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.bqxss.org/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.bqxss.org/tablet/index.html"/>
   </url>
   <url>
     <loc>http://www.bqxss.org/bq.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/ss.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/timeline.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/about.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/support.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/activity.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/lswz-4.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -53,49 +55,49 @@
   </url>
   <url>
     <loc>http://www.bqxss.org/ssjm.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/yes.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/no.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/2.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/1.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/3.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/soeasy.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/15.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -104,67 +106,73 @@
   </url>
   <url>
     <loc>http://www.bqxss.org/16.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/loveu.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/%E8%90%A8%E6%96%AF.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/7.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.bqxss.org/17.html</loc>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/%E5%8F%AF%E4%BB%A5.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.bqxss.org/images/-z4-@-jsa0-o-(n--htn7mj.png</image:loc>
+      <image:loc>http://www.bqxss.org/images/xin.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.bqxss.org/%E4%B8%8D%E5%8F%AF%E4%BB%A5.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/%E7%9C%9F%E7%9A%84.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/%E5%81%87%E7%9A%84.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.bqxss.org/images/-z4-@-jsa0-o-(n--htn7mj.png</image:loc>
+      <image:loc>http://www.bqxss.org/images/xin.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.bqxss.org/123456.html</loc>
-    <lastmod>2019-08-04</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/bswz-0.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -173,37 +181,43 @@
   </url>
   <url>
     <loc>http://www.bqxss.org/dlc.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/c5da2.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/rbqrbq.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/12.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.bqxss.org/avicii.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <lastmod>2019-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.bqxss.org/17.html</loc>
-    <lastmod>2019-08-05</lastmod>
+    <loc>http://www.bqxss.org/lswz.html</loc>
+    <lastmod>2019-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.bqxss.org/bswz.html</loc>
+    <lastmod>2019-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
